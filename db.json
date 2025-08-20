@@ -1,0 +1,49 @@
+{
+  "encontros": [
+    {
+      "id": 1,
+      "data": "2025-08-20T14:00:00",
+      "tipo": "Presencial",
+      "livro": {
+        "id": 101,
+        "titulo": "Multipla Escolha",
+        "autor": "Alejandro Zambra",
+        "paginas": 350,
+        "capa": "https://m.media-amazon.com/images/I/81-BE+m2xpL._SY466_.jpg",
+        "descricao": "Múltipla escolha passeia por temas..."
+      },
+      "participantes": [
+        {
+          "usuarioId": "123",
+          "nome": "Julia Ribeiro",
+          "page_atual": 95
+        },
+        {
+          "usuarioId": "456",
+          "nome": "Carlos Cavalheiro",
+          "page_atual": 80
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "data": "2025-08-24T18:00:00",
+      "tipo": "Online",
+      "livro": {
+        "id": 102,
+        "titulo": "Pedro Páramo",
+        "autor": "Juan Rulfo",
+        "paginas": 250,
+        "capa": "https://m.media-amazon.com/images/I/810GHGtf9zL._SY466_.jpg",
+        "descricao": "Pedro Páramo é uma obra-prima..."
+      },
+      "participantes": [
+        {
+          "usuarioId": "789",
+          "nome": "Lívia Santos",
+          "page_atual": 88
+        }
+      ]
+    }
+  ]
+}
